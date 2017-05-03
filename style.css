@@ -1,0 +1,34 @@
+body {
+  background-image: url("assets/background.png");
+  font-family: 'Source Code Pro', monospace;
+}
+
+h1 {
+  font-family: 'Cutive Mono', monospace;
+  text-align: center;
+}
+
+h2 {
+    font-family: 'Cutive Mono', monospace;
+}
+
+h3 {
+    font-family: 'Cutive Mono', monospace;
+    color: #bbbc2e;
+}
+
+a {
+  color: #229C73;
+}
+
+#content {
+    position: absolute;
+    width: 100%;
+    height: 125%;
+    border: none;
+}
+
+.notes {
+  margin: auto;
+  width: 70%;
+}
